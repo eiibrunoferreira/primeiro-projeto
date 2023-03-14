@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+/* MEDIDAS ALTERADAS PARA DIVERSOS TAMANHOS (MEDIA QUERIES) */
+
+@media (max-width: 800px) {
+    .containerbranco {
+        width: 300px;
+        padding-bottom: 650px;
+        top: 40px;
+    }
+
+    .bordabranca {
+        width: 330px;
+        padding-bottom: 685px;
+        top: 25px;
+    }
+
+    .riscopretocima {
+        width: 310px;
+        top: 60px;
+    }
+
+    .riscopreto {
+        width: 310px;
+        top: 670px;
+    }
+
+    #fotobruno {
+        width: 178px;
+        top: 80px;
+    }
+
+    .containerbruno {
+        width: 260px;
+        top: 300px;
+    }
+
+    #bruno {
+        width: 240px;
+    }
+
+    #redes {
+        top: 370px;
+        font-size: 22px;
+    }
+
+    .iconesredes {
+        top: 400px;
+    }
+
+    #iniciando {
+        width: 150px;
+        border-radius: 25px;
+        top: 500px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    #create {
+        top: 677px;
+    }
+
+    .invisivel {
+        top: 670px;
+    }
+
+}
